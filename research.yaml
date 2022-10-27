@@ -1,6 +1,6 @@
 ---
-- title: Inferring Concept Drift Without Labeled Data
-  description: Concept drift occurs when the statistical properties of a target domain
+- title: Inferring Concept Drift Without Labeled Data Test
+  INVALID DESCRIPTION: Concept drift occurs when the statistical properties of a target domain
     change over time causing model performance to degrade. Drift detection is generally
     achieved by monitoring a performance metric of interest and triggering a retraining
     pipeline when that metric falls below some designated threshold. However, this
@@ -15,7 +15,7 @@
   link: https://concept-drift.fastforwardlabs.com/
   imgpath: https://concept-drift.fastforwardlabs.com/figures/FF22-cover.png
   date: '2021-08-01T00:00:00Z'
-- title: Exploring Multi-Objective Hyperparameter Optimization
+- title: Exploring Multi-Objective Hyperparameter Optimization Test
   description: We develop machine learning models against the “usual suspect” metrics
     like predictive accuracy, recall, and precision. However, these metrics are rarely
     truly all we care about. Production models must also satisfy physical requirements
