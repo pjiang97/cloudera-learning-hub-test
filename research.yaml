@@ -7,7 +7,7 @@
     approach assumes ample labeled data is available at prediction time - an unrealistic
     constraint for many production systems. In this report, we explore various approaches
     for dealing with concept drift when labeled data is not readily accessible.
-  category: Research Report
+  category: Blogpost
   tags:
   - ffl
   - ml
