@@ -9,6 +9,7 @@
     for dealing with concept drift when labeled data is not readily accessible.
   category: Blogpost
   tags:
+  - cml
   - ffl
   - ml
   link: https://concept-drift.fastforwardlabs.com/
