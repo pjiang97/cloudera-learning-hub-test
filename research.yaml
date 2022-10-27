@@ -1,5 +1,5 @@
 ---
-- titl: Inferring Concept Drift Without Labeled Data Test
+- title: Inferring Concept Drift Without Labeled Data Test
   description: Concept drift occurs when the statistical properties of a target domain
     change over time causing model performance to degrade. Drift detection is generally
     achieved by monitoring a performance metric of interest and triggering a retraining
@@ -9,7 +9,6 @@
     for dealing with concept drift when labeled data is not readily accessible.
   category: Research Report
   tags:
-  - cml
   - ffl
   - ml
   link: https://concept-drift.fastforwardlabs.com/
